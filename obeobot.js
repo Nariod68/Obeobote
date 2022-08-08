@@ -32,6 +32,7 @@ from youtube_dl import YoutubeDL
 import youtube_dl
 import asyncio
 
+TOKEN = "token ici"
 
 bot = commands.Bot(command_prefix="!", description="Mon créateur est nariod ")
 
@@ -247,4 +248,4 @@ async def play(ctx, url):
 
 
 
-bot.run("OTgyNjQ3NjUwNzI3ODk1MTMy.GBD9Ad.6dtoEPqiowbukqm2RyR2nVaamqHAyQmizHdc_4")
+bot.run(TOKEN)
