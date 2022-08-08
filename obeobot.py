@@ -247,4 +247,4 @@ async def play(ctx, url):
 
 
 
-bot.run("OTgyNjQ3NjUwNzI3ODk1MTMy.GNiNyg.AzPL9C8BBO4aZla9AHQxuHNX1hofCGottePGd4")
+bot.run("OTgyNjQ3NjUwNzI3ODk1MTMy.GBD9Ad.6dtoEPqiowbukqm2RyR2nVaamqHAyQmizHdc_4")
